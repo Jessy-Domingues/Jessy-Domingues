@@ -10,7 +10,7 @@
 - 👨‍💻 Un autre de mes plus gros projet: [Site présentation jeux de gestion](https://jessy-domingues.fr/)
 
 - 📫 Pour me contacter: **jessy4960@gmail.com**
-Illustration by <a href="https://icons8.com/illustrations/author/cj62pzCRUq1N">Julia Buzatti</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<a href="https://icons8.com/illustrations/author/cj62pzCRUq1N">Julia Buzatti</a>
 
 <h3 align="left">Connectez vous: </h3>
 <p align="left">
