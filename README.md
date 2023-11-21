@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour 👋, je m'appelle Jessy</h1>
 <h3 align="center">Développeur Fullstack, fraîchement diplômé</h3>
 
-- 🔭 Je travaille en ce moment sur mon portfolio **Portfolio Jessy**
+- 🔭 Je travaille en ce moment sur mon portfolio **"Portfolio Jessy"**
 
-- 🌱 La technologie que j'approfondie en ce moment **Javascript**
+- 🌱 La technologie que j'approfondie en ce moment **"Javascript"**
 
 - 👨‍💻 Un de mes plus gros projets: [Site fan-art Wakanda](https://wakanda.jessy-domingues.fr/Wakanda/)
 
