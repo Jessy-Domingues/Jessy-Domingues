@@ -1,7 +1,7 @@
 <h1 align="center">Bonjour 👋, je m'appelle Jessy</h1>
 <h3 align="center">Développeur Fullstack, fraîchement diplômé</h3>
 
-- 🔭 Je travaille en ce moment sur mon portfolio **"Portfolio Jessy"**
+- 🔭 J'ai terminé mon [**portfolio**](https://portfolio-jessydomingues.netlify.app/)
 
 - 🌱 La technologie que j'approfondie en ce moment **"Javascript"**
 
